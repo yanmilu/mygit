@@ -1,10 +1,13 @@
 <application>
   <component name="GithubAccounts">
-    <account id="cb1e143c-2a87-4b4c-84bb-24d60a334c6a" name="yanmilu">
-      <server host="github.com" />
+    <account id="50089f12-5ffe-4e65-816d-0fa186982acc" name="yanmilu">
+      <server useHttp="false" host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
     <option name="OPEN_IN_BROWSER_GIST" value="false" />
+    <option name="COPY_URL_GIST" value="true" />
+    <option name="PRIVATE_GIST" value="false" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
